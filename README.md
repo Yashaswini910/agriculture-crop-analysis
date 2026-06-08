@@ -86,19 +86,43 @@ Interactive Dashboard (Looker Studio)
 
 ## Repository Structure
 agriculture-crop-analysis/
+
 │
+
 ├── raw_data/
-│   ├── crop_production_raw.csv
-│   ├── rainfall_raw.csv
-│   └── msp.csv
+
 │
+
+├── crop_production_raw.csv
+
+│
+
+├── rainfall_raw.csv
+
+│  
+
+└── msp.csv
+
+│
+
 ├── sql_queries/
-│   └── all_sql_queries.sql
+
 │
+
+└── all_sql_queries.sql
+
+│
+
 ├── python/
-│   └── Agriculture_project.ipynb
+
 │
+
+└── Agriculture_project.ipynb
+
+│
+
 └── dashboard/
+
 └── agri_project.txt
 ---
 

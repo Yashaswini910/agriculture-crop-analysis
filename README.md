@@ -35,18 +35,23 @@ pricing play in crop yield outcomes?
 
 ## Project Workflow
 Raw Data Collection
+
 ↓
 
 Data Cleaning (Excel + BigQuery)
+
 ↓
 
 Joining 3 Datasets into Master Table (BigQuery)
+
 ↓
 
 11 SQL Queries for Analysis (BigQuery)
+
 ↓
 
 Python Visualizations (Google Colab)
+
 ↓
 
 Interactive Dashboard (Looker Studio)
